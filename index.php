@@ -5,8 +5,6 @@
 
 <!-- CONTENT
 ====================== -->
-<section class="wrap">
-
   <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
   <div class="entry">
@@ -20,8 +18,6 @@
   <?php endwhile; else : ?>
   	<p><?php _e( 'Sorry, no posts matched your criteria.' ); ?></p>
   <?php endif; ?>
-
-</section>
 
   <!--
     can't close the body here!, since we need to call wp_footer() from footer
