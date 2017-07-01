@@ -1,2 +1,3 @@
-# joseTextBlogWordpressified
-Front end design by Jose, wordpressified by Rj. Represents code brotherhood.
+# JoseWPBlog
+Simplest text blog ever. Front-end design by Jose. Wordpressified by Ramachandra Jr. Represents code brotherhood.
+
